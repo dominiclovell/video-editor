@@ -2,6 +2,8 @@
 
 This example is part of this article: [How to Build a Video Editor in JavaScript](https://creatomate.com/blog/how-to-build-a-video-editor-in-javascript)
 
+test
+
 ---
 
 Run it with the following command:
